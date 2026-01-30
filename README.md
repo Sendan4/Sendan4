@@ -4,6 +4,7 @@
 - Suelo hacer tonterias en mi tiempo libre
 - Me gusta linux 🐧
 - Usuario promedio de neovim
+- Estupidez natural
 
 <br>
 
