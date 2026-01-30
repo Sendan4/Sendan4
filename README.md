@@ -1,6 +1,7 @@
 - Me gusta la programacion de bajo nivel
-- Suelo hacer tonterias en mi tiempo libre
+- Obsesionado con el rendimiento
 - Interesado en aprender programacion de graficos
+- Suelo hacer tonterias en mi tiempo libre
 - Me gusta linux 🐧
 - Usuario promedio de neovim
 
