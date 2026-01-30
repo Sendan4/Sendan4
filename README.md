@@ -1,12 +1,13 @@
-- Me gusta C/C++
+- Me gusta la programacion de bajo nivel
 - Suelo hacer tonterias en mi tiempo libre
+- Interesado en aprender programacion de graficos
+- Me gusta linux 🐧
+- Usuario promedio de neovim
 
-<hr>
+<br>
 
-| C++ | CMake |
-| --- | ----- |
-
-<hr>
+| C | C++ | CMake |
+| - | --- | ----- |
 
 <a href = "https://raw.githubusercontent.com/Sendan4/Sendan4/main/Kapi%20bruh.avif">
     <p>
